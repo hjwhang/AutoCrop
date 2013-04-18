@@ -1,7 +1,7 @@
 AutoCrop
 ========
 
-Library that allows automatic cropping of white borders according to LAB colour space deltas. Includes extended ImageView that automatically crops images. This is my first library, 
+Library that allows automatic cropping of white borders according to LAB colour space deltas. Includes extended ImageView that automatically crops images. This is my first library, sorry for any mistakes/ bugs/ design flaws/ general teribble-ness! :D
 
 Usage
 =====
